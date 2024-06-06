@@ -178,11 +178,6 @@ public class inc{
 
 ```
 
-### Output
-
-
-![Image](media/6.png)
-
 ## 07-if-statement
 
 ### ifState.java
