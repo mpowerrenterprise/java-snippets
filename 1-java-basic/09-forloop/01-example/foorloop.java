@@ -16,3 +16,4 @@ class foorloop{
 
 
 //This is a simple foor loopin java
+
