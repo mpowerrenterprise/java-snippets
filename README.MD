@@ -15,7 +15,7 @@ With its "write once, run anywhere" philosophy, Java ensures compatibility acros
 3. [Netbeans GUI Apps](3-netbeans-gui-apps/)
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
