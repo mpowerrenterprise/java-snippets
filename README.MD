@@ -1,4 +1,4 @@
-# C# Snippets
+# Java Snippets
 
 ## Introduction
 
